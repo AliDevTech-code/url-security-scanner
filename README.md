@@ -3,7 +3,7 @@
 A professional, real-time URL security analysis tool that checks any link for malware, phishing, and security threats.
 
 ## 🚀 Live Demo
-[👉 Click here to use the tool](#) https://alidevtech-code.github.io/url-security-scanner/
+[👉 Click here to use the tool] https://alidevtech-code.github.io/url-security-scanner/
 
 ## ✨ Features
 - ✅ Real-time security analysis
